@@ -10,6 +10,6 @@ public class Test1 {
 
 
     public static int test1(int a, int b){
-        return a + b;
+        return a + b * 5;
     }
 }
